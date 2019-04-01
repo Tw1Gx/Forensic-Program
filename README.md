@@ -1,7 +1,6 @@
 # Forensic Program
-# Made with Python 3.6 
-# Made by Johannes Grönhed 
-
+# Made by Johannes GrÃ¶nhed 
+##Made with Python 3.6 
 First and foremost you need to know the basics of a commandline when using this program. 
 To start it, go into your path where you have it stored. 
 
