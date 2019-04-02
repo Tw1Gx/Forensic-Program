@@ -23,11 +23,6 @@ args2 = args.gui
 
 if args2 == "gui":
 
-	## Några few pointers är att vi inte jobbat särskilt mycket med klasser och därför inte 
-	## Byggt upp hela grejen i klasser vilket hade varit smidigare egentligen. 
-	## på grund av den anledningen har vi inte kunnat göra något textruta som outputar det som outputas i terminalen för 
-	## tillfället men däremot fungerar alla funktioner som dem ska och gui:t är rätt kopplat. 
-
 	root = tk.Tk() ## Creating the root window
 	root.title("Forensic program") ## Setting the title 
 	root.geometry("1100x700+150+300")
@@ -422,7 +417,6 @@ if args2 == "gui":
 
 else:
 	
-	#import PyPDF2
 
 	def meny():
 		print("MENY")

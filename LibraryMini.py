@@ -1,5 +1,5 @@
 import glob, os, random
-#import PyPDF2
+#Library with functions.
 
 
 def search():
