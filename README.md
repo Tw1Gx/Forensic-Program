@@ -18,6 +18,6 @@ To use the program in GUI-Mode:
 
 ``` forensicTools.py gui ``` 
 
-For any questions, email me @lillengronhed@hotmail.com
+For any questions, email me @ johannesgronhed1@hotmail.com
 
  
